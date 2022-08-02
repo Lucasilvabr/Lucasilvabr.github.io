@@ -1,5 +1,5 @@
 ﻿# Lucasilvabr.github.io
 
-## Acesso meu portfolio pelo link:
+## Acesso meu portfólio pelo link:
 
 https://lucasilvabr.github.io/Portfolio-Profile/Index.html
